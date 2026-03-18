@@ -1,8 +1,8 @@
 TO: info@vintero.fi
 SUBJECT: Vintero — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-vint.netlify.app
+PREVIEW: https://yassinfennir.github.io/vintero/
 INVOICE: YEF-2026-019
-DATE: 2026-03-18T02:46:05.441Z
+DATE: 2026-03-18T03:04:31.742Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin ravintolanne Vintero verkkosivustoon ja huomasin, etta siina on paljon
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-vint.netlify.app
+👉  https://yassinfennir.github.io/vintero/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
